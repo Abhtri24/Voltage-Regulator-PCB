@@ -30,9 +30,9 @@ This project demonstrates the design of an adjustable voltage regulator circuit 
 
 ### Images
 - **Schematic Diagram**:
-  ![Schematic]([path/to/schematic-image.png](https://github.com/Abhtri24/Voltage-Regulator-PCB/blob/main/PCB%20SCHEMATIC.jpg?raw=true))
+  ![Schematic](https://github.com/Abhtri24/Voltage-Regulator-PCB/blob/main/PCB%20SCHEMATIC.jpg?raw=true)
 - **Project Prototype**:
-  ![Prototype](path/to/project-image.png)
+  ![Prototype](https://github.com/Abhtri24/Voltage-Regulator-PCB/blob/main/project%20image.jpg?raw=true)
 
 ## Applications
 - Powering low-voltage devices like microcontrollers and sensors.
